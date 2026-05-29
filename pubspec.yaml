@@ -1,0 +1,26 @@
+name: fundmate_app
+description: FundMate - Connect entrepreneurs with investors and mentors
+publish_to: "none"
+
+environment:
+  sdk: "^3.4.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  firebase_core: ^4.9.0
+  firebase_auth: ^6.5.1
+  cloud_firestore: ^6.4.1
+  firebase_storage: ^13.0.1
+  file_picker: ^8.1.7
+  http: ^1.2.2
+  shared_preferences: ^2.3.3
+  url_launcher: ^6.3.1
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
