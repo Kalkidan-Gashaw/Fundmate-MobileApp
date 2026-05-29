@@ -1,11 +1,11 @@
 # FundMate
 
 FundMate is a Flutter application that helps entrepreneurs connect with investors and mentors. It uses Firebase for authentication, Cloud Firestore for app data.
-## Repository highlights
 
 # Demo that is uploaded on youtube
 https://youtu.be/TG7s19TbI7U
 
+## Repository highlights
 - `lib/` — main application source
 	- `main.dart` — app entry and basic routing
 	- `auth/` — authentication pages (login, signup, role selection)
