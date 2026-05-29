@@ -88,10 +88,4 @@ flutter run -d chrome
 
 - There is a `lib/FIREBASE_SETUP.md` file with additional Firebase-specific instructions — consult it when configuring your project.
 
-## Contributing
 
-- Open issues and submit PRs. Describe any platform-specific testing steps in your PR.
-
-## License
-
-If you plan to open-source the project, add a `LICENSE` file. Currently no license is included.
