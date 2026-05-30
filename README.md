@@ -8,7 +8,7 @@ https://youtu.be/TG7s19TbI7U
 ## Repository highlights
 - `lib/` — main application source
 	- `main.dart` — app entry and basic routing
-	- `auth/` — authentication pages (login, signup, role selection)
+	- — authentication pages (login, signup, role selection)
 	- Screens: individual screen files live in `lib/` root (for example: `entrepreneur_screen.dart`, `investor_screen.dart`, `mentor_screen.dart`, `chat_screen.dart`, `startup_detail_screen.dart`, `nda_sign_screen.dart`)
 	- `services/` — backend helpers and business logic (chat_service, nda_service, storage_upload_service)
 	- `widgets/` — reusable widgets and UI pieces
